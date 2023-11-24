@@ -1,0 +1,3 @@
+proxies: false
+threads: 50
+retries: 3
